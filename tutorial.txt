@@ -1,0 +1,7 @@
+1. Buka XAMPP : start Apache dan mysql
+2. Extract file di xampp/htdocs/
+3. Buka phpmyadmin
+4. Buat db baru bernama onlineshop.
+5. Import db (db ada di database/onlineshop.sql)
+6. Register dan login untuk user.
+7. admin (email : admin@gmail.com password : 123456789).
