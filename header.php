@@ -197,7 +197,8 @@ session_start();
 										<option value="1">Women </option>
 									</select>
 									<input class="input" id="search" type="text" placeholder="Search here">
-									<button type="submit" id="search_btn" class="search-btn">Search</button>
+									<button type="submit" id="search_btn" class="search-btn" onkeyup="search()">Search</button>
+									<!-- List -->
 								</form>
 							</div>
 						</div>
