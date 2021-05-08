@@ -20,7 +20,7 @@
   </button>
   <ul class="dropdown-menu" style="width:240px">
     <li><a href="clothes_list.php"><strong>Clothes List</strong> </a></li>
- <li><a href="cosmetics_list.php"><strong> Electronic List</strong></a></li>
+ <li><a href="cosmetics_list.php"><strong> ETC List</strong></a></li>
    </ul></li>
 
  
